@@ -1,0 +1,45 @@
+{
+  "allOrNothing": true,
+  "tests": [
+    {
+      "name": "Part 2.1: Highest Percentage of Freshman with 4.00 High School GPAs",
+      "setup": "",
+      "run": "pytest test_microproject-01-trends-in-high-school-gpas.py::test_Part_2_1__Highest_Percentage_of_Freshman_with_4_00_High_School_GPAs",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Part 2.2: Exploring UW-Madison Data",
+      "setup": "",
+      "run": "pytest test_microproject-01-trends-in-high-school-gpas.py::test_Part_2_2__Exploring_UW_Madison_Data",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    },
+    {
+      "name": "Part 2.3: Exploring Data From U-Michigan",
+      "setup": "",
+      "run": "pytest test_microproject-01-trends-in-high-school-gpas.py::test_Part_2_3__Exploring_Data_From_U_Michigan",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    },
+    {
+      "name": "Part 2.4: Exploring Data From Michigan State",
+      "setup": "",
+      "run": "pytest test_microproject-01-trends-in-high-school-gpas.py::test_Part_2_4__Exploring_Data_From_Michigan_State",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    },
+    {
+      "name": "Part 3: Data Visualization",
+      "setup": "",
+      "run": "pytest test_microproject-01-trends-in-high-school-gpas.py::test_Part_3__Data_Visualization",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    }
+  ]
+}
